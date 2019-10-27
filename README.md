@@ -1,3 +1,7 @@
-# antsy-icon-theme
+# Antsy Icon Theme
 
-Antsy material icon theme
+Flat, black Archdroid-based theme made with [oomox](https://github.com/themix-project/oomox.git)
+ 
+License
+----
+GPL
